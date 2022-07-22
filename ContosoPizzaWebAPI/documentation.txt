@@ -1,0 +1,6 @@
+httprepl https://localhost:7058 - run for httprepl
+
+dotnet run - run project
+
+dotnet dev-certs https --trust      - error when dotnet run
+

@@ -1,0 +1,87 @@
+C:\xampp\htdocs\ContosoPizza\bin\Debug\net6.0\appsettings.Development.json
+C:\xampp\htdocs\ContosoPizza\bin\Debug\net6.0\appsettings.json
+C:\xampp\htdocs\ContosoPizza\bin\Debug\net6.0\ContosoPizza.exe
+C:\xampp\htdocs\ContosoPizza\bin\Debug\net6.0\ContosoPizza.deps.json
+C:\xampp\htdocs\ContosoPizza\bin\Debug\net6.0\ContosoPizza.runtimeconfig.json
+C:\xampp\htdocs\ContosoPizza\bin\Debug\net6.0\ContosoPizza.dll
+C:\xampp\htdocs\ContosoPizza\bin\Debug\net6.0\ContosoPizza.pdb
+C:\xampp\htdocs\ContosoPizza\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\xampp\htdocs\ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\xampp\htdocs\ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\xampp\htdocs\ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\xampp\htdocs\ContosoPizza\obj\Debug\net6.0\ContosoPizza.csproj.AssemblyReference.cache
+C:\xampp\htdocs\ContosoPizza\obj\Debug\net6.0\ContosoPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\ContosoPizza\obj\Debug\net6.0\ContosoPizza.AssemblyInfoInputs.cache
+C:\xampp\htdocs\ContosoPizza\obj\Debug\net6.0\ContosoPizza.AssemblyInfo.cs
+C:\xampp\htdocs\ContosoPizza\obj\Debug\net6.0\ContosoPizza.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\ContosoPizza\obj\Debug\net6.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cs
+C:\xampp\htdocs\ContosoPizza\obj\Debug\net6.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\xampp\htdocs\ContosoPizza\obj\Debug\net6.0\staticwebassets.build.json
+C:\xampp\htdocs\ContosoPizza\obj\Debug\net6.0\staticwebassets.development.json
+C:\xampp\htdocs\ContosoPizza\obj\Debug\net6.0\scopedcss\bundle\ContosoPizza.styles.css
+C:\xampp\htdocs\ContosoPizza\obj\Debug\net6.0\ContosoPizza.csproj.CopyComplete
+C:\xampp\htdocs\ContosoPizza\obj\Debug\net6.0\ContosoPizza.dll
+C:\xampp\htdocs\ContosoPizza\obj\Debug\net6.0\refint\ContosoPizza.dll
+C:\xampp\htdocs\ContosoPizza\obj\Debug\net6.0\ContosoPizza.pdb
+C:\xampp\htdocs\ContosoPizza\obj\Debug\net6.0\ContosoPizza.genruntimeconfig.cache
+C:\xampp\htdocs\ContosoPizza\obj\Debug\net6.0\ref\ContosoPizza.dll
+C:\Users\binAnuarFari\Desktop\ContosoPizza\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\binAnuarFari\Desktop\ContosoPizza\bin\Debug\net6.0\appsettings.json
+C:\Users\binAnuarFari\Desktop\ContosoPizza\bin\Debug\net6.0\ContosoPizza.exe
+C:\Users\binAnuarFari\Desktop\ContosoPizza\bin\Debug\net6.0\ContosoPizza.deps.json
+C:\Users\binAnuarFari\Desktop\ContosoPizza\bin\Debug\net6.0\ContosoPizza.runtimeconfig.json
+C:\Users\binAnuarFari\Desktop\ContosoPizza\bin\Debug\net6.0\ContosoPizza.dll
+C:\Users\binAnuarFari\Desktop\ContosoPizza\bin\Debug\net6.0\ContosoPizza.pdb
+C:\Users\binAnuarFari\Desktop\ContosoPizza\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\binAnuarFari\Desktop\ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\binAnuarFari\Desktop\ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\binAnuarFari\Desktop\ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\binAnuarFari\Desktop\ContosoPizza\obj\Debug\net6.0\ContosoPizza.csproj.AssemblyReference.cache
+C:\Users\binAnuarFari\Desktop\ContosoPizza\obj\Debug\net6.0\ContosoPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binAnuarFari\Desktop\ContosoPizza\obj\Debug\net6.0\ContosoPizza.AssemblyInfoInputs.cache
+C:\Users\binAnuarFari\Desktop\ContosoPizza\obj\Debug\net6.0\ContosoPizza.AssemblyInfo.cs
+C:\Users\binAnuarFari\Desktop\ContosoPizza\obj\Debug\net6.0\ContosoPizza.csproj.CoreCompileInputs.cache
+C:\Users\binAnuarFari\Desktop\ContosoPizza\obj\Debug\net6.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\binAnuarFari\Desktop\ContosoPizza\obj\Debug\net6.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\binAnuarFari\Desktop\ContosoPizza\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\binAnuarFari\Desktop\ContosoPizza\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\binAnuarFari\Desktop\ContosoPizza\obj\Debug\net6.0\scopedcss\bundle\ContosoPizza.styles.css
+C:\Users\binAnuarFari\Desktop\ContosoPizza\obj\Debug\net6.0\ContosoPizza.csproj.CopyComplete
+C:\Users\binAnuarFari\Desktop\ContosoPizza\obj\Debug\net6.0\ContosoPizza.dll
+C:\Users\binAnuarFari\Desktop\ContosoPizza\obj\Debug\net6.0\refint\ContosoPizza.dll
+C:\Users\binAnuarFari\Desktop\ContosoPizza\obj\Debug\net6.0\ContosoPizza.pdb
+C:\Users\binAnuarFari\Desktop\ContosoPizza\obj\Debug\net6.0\ContosoPizza.genruntimeconfig.cache
+C:\Users\binAnuarFari\Desktop\ContosoPizza\obj\Debug\net6.0\ref\ContosoPizza.dll
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\bin\Debug\net6.0\ContosoPizza.exe
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\bin\Debug\net6.0\ContosoPizza.deps.json
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\bin\Debug\net6.0\ContosoPizza.runtimeconfig.json
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\bin\Debug\net6.0\ContosoPizza.dll
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\bin\Debug\net6.0\ContosoPizza.pdb
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\obj\Debug\net6.0\ContosoPizza.csproj.AssemblyReference.cache
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\obj\Debug\net6.0\ContosoPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\obj\Debug\net6.0\ContosoPizza.AssemblyInfoInputs.cache
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\obj\Debug\net6.0\ContosoPizza.AssemblyInfo.cs
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\obj\Debug\net6.0\ContosoPizza.csproj.CoreCompileInputs.cache
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\obj\Debug\net6.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\obj\Debug\net6.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\obj\Debug\net6.0\scopedcss\bundle\ContosoPizza.styles.css
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\obj\Debug\net6.0\ContosoPizza.csproj.CopyComplete
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\obj\Debug\net6.0\ContosoPizza.dll
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\obj\Debug\net6.0\refint\ContosoPizza.dll
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\obj\Debug\net6.0\ContosoPizza.pdb
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\obj\Debug\net6.0\ContosoPizza.genruntimeconfig.cache
+C:\Users\binAnuarFari\Desktop\Devs Test\ContosoPizzaWebAPI\obj\Debug\net6.0\ref\ContosoPizza.dll
+C:\Users\binAnuarFari\Downloads\ContosoPizzaWebAPI\bin\Debug\net6.0\ContosoPizza.exe
+C:\Users\binAnuarFari\Downloads\ContosoPizzaWebAPI\bin\Debug\net6.0\ContosoPizza.dll
+C:\Users\binAnuarFari\Downloads\ContosoPizzaWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\binAnuarFari\Downloads\ContosoPizzaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\binAnuarFari\Downloads\ContosoPizzaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\binAnuarFari\Downloads\ContosoPizzaWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
